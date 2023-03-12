@@ -1,3 +1,4 @@
+/*                             Global CSS                     */
 *{
     margin: 0%;
     padding:0%;
@@ -7,6 +8,7 @@
 .body{
     background-color:  rgba(39, 227, 227, 0.249) ;
 }
+/*                               Header Part                       */
 .wallet{
     display: flex;
     flex-direction: row;
@@ -85,7 +87,7 @@
     color:rgb(237, 105, 23) ;
 }
 
-/* section part  */
+/*                         section part                 */
 
 .section_block{
     align-items: center;
